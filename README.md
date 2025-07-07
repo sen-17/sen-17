@@ -1,18 +1,37 @@
-<h1 align="center">Hi 👋, I'm Jasson</h1>
-<h3 align="center">Learning to Code | Passionate about Python, Projects, and Progress</h3>
-💻 My current focus is Python & Web Development  
-🌱 Currently exploring data science  
-🤝 Always open to collaboration and learning with others  
-🚀 My 2025 goal is to build and launch 3 real-world apps  
-📌 Checkout my pinned repositories to see my favorite work  
-<h3 align="left">Connect with me:</h3>
+# Hi there 👋, I'm Jasson
+
+### 💡 Learning to Code | Passionate about Python, Projects, and Progress
+
+🚀 Currently focused on **Python** and **Web Development**  
+🌱 Exploring the world of **Data Science**  
+🤝 Always open to collaborating and learning with others  
+🎯 2025 Goal: Launch **3 real-world applications**  
+📌 Check out my pinned repositories to see projects I'm proud of
+
+---
+
+### 🔗 Connect with Me
+
+📧 [jassonn.176@gmail.com](mailto:jassonn.176@gmail.com)
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+> *“Code is not just code, it’s a reflection of problem-solving, persistence, and passion.”*
 
-
-
-- 📫 How to reach me **jassonn.176@gmail.com**
