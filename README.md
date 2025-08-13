@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=flat-square" />
+
 </p>
 
 ---
