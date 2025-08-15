@@ -1,16 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jasson</h1>
-<h3 align="center">Learning to Code | Passionate about Python, Projects, and Progress</h3>
+<h3 align="center">Programmer at SGEEDE | Building My Future Through Code</h3>
+
+<p align="center">
+  💡 Passionate about Python, Projects, and Progress.
+</p>
 
 ---
 
-- 🔭 Currently working on **#100DaysOfPython**
-- 🌱 Currently learning **Python, SQL, and Odoo**
-- 📫 Reach me at: **jassonn.176@gmail.com**
+### 👨‍💻 About Me
+
+- 💼 Currently working as a **Programmer at SGEEDE**
+- 🔭 Working on **#100DaysOfPython**
+- 🌱 Learning **Python, SQL, and Odoo Development**
+- 📬 Reach me at **jassonn.176@gmail.com**
 
 ---
+
 ### 🛠️ Languages & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
@@ -29,17 +37,14 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=flat-square" />
-
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sen-17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sen-17" alt="GitHub Streak" />
 </p>
