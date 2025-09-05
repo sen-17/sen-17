@@ -10,7 +10,6 @@
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a **Programmer at SGEEDE**
-- 🔭 Working on **#100DaysOfPython**
 - 🌱 Learning **Python, SQL, and Odoo Development**
 - 📬 Reach me at **jassonn.176@gmail.com**
 
