@@ -1,19 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jasson</h1>
-<h3 align="center">Programmer at SGEEDE | Building My Future Through Code</h3>
-
-<p align="center">
-  💡 Passionate about Python, Projects, and Progress.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 💼 Currently working as a **Programmer at SGEEDE**
-- 🌱 Learning **Python, SQL, and Odoo Development**
-- 📬 Reach me at **jassonn.176@gmail.com**
-
----
 
 ### 🛠️ Languages & Tools
 
