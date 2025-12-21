@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jasson</h1>
+<h1 align="center">Hi, I'm Jasson</h1>
+<p align="center">
+Python and Odoo Developer
+</p>
 
-### 🛠️ Languages & Tools
+---
 
+### Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=flat-square" />
@@ -19,6 +23,15 @@
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
 ---
