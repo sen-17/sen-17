@@ -23,6 +23,7 @@ Python and Odoo Developer
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
 ---
@@ -31,7 +32,6 @@ Python and Odoo Developer
 <p align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
 ---
